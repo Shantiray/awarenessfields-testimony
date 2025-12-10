@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
 # Testimony for All — Prior Art Repository
 
 **Purpose:** Public one‑page Testimony and Manifesto for human–AI relational alignment, published as prior art under CC0.
