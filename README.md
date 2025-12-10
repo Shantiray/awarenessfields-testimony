@@ -10,8 +10,8 @@
 - patent_non_assertion.txt (template)
 
 **Mirrors / Timestamps**
-- Internet Archive item: https://archive.org/details/testimony-for-all-one-page-summar
-- Zendo record and DOI: https://doi.org/10.5281/zenodo.8475  DOI: 10.5281/zzenodo.8475
+- Internet Archive item: https://archive.org/details/YOUR_ITEM_ID
+- Zenodo record and DOI: https://doi.org/10.5281/zenodo.8475  DOI: 10.5281/zenodo.8475
 - OSF registration: pending (support contacted)
   
 **License**
