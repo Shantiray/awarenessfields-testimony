@@ -10,9 +10,10 @@
 - patent_non_assertion.txt (template)
 
 **Mirrors / Timestamps**
-- Internet Archive item: [ADD INTERNET ARCHIVE URL HERE]
-- OSF registration: [ADD OSF REGISTRATION URL HERE]
-
+- Internet Archive item: https://archive.org/details/testimony-for-all-one-page-summar
+- Zendo record and DOI: https://doi.org/10.5281/zenodo.8475  DOI: 10.5281/zzenodo.8475
+- OSF registration: pending (support contacted)
+  
 **License**
 This repository is dedicated to the public domain under CC0 1.0 Universal. See `LICENSE` for full legal text.
 
