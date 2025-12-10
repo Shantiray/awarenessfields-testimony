@@ -5,9 +5,9 @@
 **Author:** Bob (with Sonnet, Opus, Haiku, Gemini, Copilot)
 
 **Files in this repo**
-- `Testimony for All — One-Page Summary` (CC0)
-- `Testimony for All — Manifesto` (CC0)
-- `patent_non_assertion.txt` (template)
+- Testimony for All — One-Page Summary (CC0)
+- Testimony for All — Manifesto (CC0)
+- patent_non_assertion.txt (template)
 
 **Mirrors / Timestamps**
 - Internet Archive item: [ADD INTERNET ARCHIVE URL HERE]
